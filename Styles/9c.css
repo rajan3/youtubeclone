@@ -1,0 +1,109 @@
+.yt,.yt1,.yt2,.yt3
+    {
+      background-color: black;
+      color:aliceblue;
+      display: inline-block;
+      padding-left: 10px;
+      font-family: arial;
+      margin-right: 12px;
+      margin-bottom: 12px;
+    }
+
+    .i,.i1,.i2,.i3
+    {
+      font-size: 20px;
+      font-weight: bold;
+    }
+
+    .add,.add1,.add2,.add3
+    {
+      color: rgb(213, 140, 140);
+      width : 350px;
+    }
+
+    .yt:hover
+    {
+      background-color: rgb(69, 144, 130);
+      
+      cursor: pointer;
+      
+    }
+
+    .i:hover{
+      color: white;
+      box-shadow: 3px 3px 3px rgb(86, 96, 103);
+    
+    }
+
+    .add:hover{
+      color:rgb(7, 0, 3);
+    }
+
+    .yt1:hover
+    {
+      background-color: rgb(199, 39, 21);
+      
+      cursor: pointer;
+      
+    }
+
+    .i1:hover{
+      color: white;
+      box-shadow: 3px 3px 3px rgb(42, 93, 129);
+      font-family: arial;
+      
+    
+    }
+
+    .add1:hover{
+      color:rgb(253, 253, 253);
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 15px;
+    }
+
+
+    .yt2:hover
+    {
+      background-color: rgb(200, 200, 40);
+      
+      cursor: pointer;
+      
+    }
+
+    .i2:hover{
+      color: rgb(6, 6, 6);
+      box-shadow: 3px 3px 3px rgb(95, 101, 106);
+      font-family: arial;
+    
+    }
+
+    .add2:hover{
+      color:rgb(29, 28, 26);
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 15px;
+    }
+
+    .yt3:hover
+    {
+      background-color: rgb(247, 243, 243);
+      color: black;
+      cursor: pointer;
+      transition: background-color 2s;
+      text-transform: capitalize;
+    }
+
+    .i3:hover{
+      color: rgb(59, 165, 163);
+      box-shadow: 3px 3px 3px rgb(95, 101, 106);
+      font-family: arial;
+      transition: box-shadow 1s,color 1s,background-color 1s;
+
+    }
+
+    .add3:hover{
+      color:rgb(59, 165, 163);
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 15px;
+      transition: box-shadow 1s,color 1s,background-color 1s;
+      box-shadow: 3px 3px 3px rgb(95, 101, 106);
+    }
